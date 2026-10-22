@@ -4,7 +4,7 @@ it may be broken idrk tbh
 
 2. fastfetch --logo none | sed 's/^/                              /' 
 
-the 's/^/                              /' part is the spacing so the actual fastfetch displays the info in the frame 
+the 's/^/                              /' part is the spacing so the actual fastfetch displays the info in the frame if its off adjust the spaces
 
 sorry that u have to run two commands instead of one but yh i dont use this anymore n idk how would i fix that anyway
 
