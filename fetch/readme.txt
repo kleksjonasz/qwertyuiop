@@ -1,4 +1,4 @@
-it may be broken idrk tbh
+it may be broken idrk
 
 1. kitten icat --z-index=-1 --place 66x14@0x0 --transfer-mode=file ~/fetch/image.png
 
