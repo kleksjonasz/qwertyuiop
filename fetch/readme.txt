@@ -11,4 +11,4 @@ sorry that u have to run two commands instead of one but yh i dont use this anym
 alias f='kitten icat --z-index=-1 --place 66x14@0x0 --transfer-mode=file ~/Pictures/fetchimage.png'
 alias ff='fastfetch --logo none --pipe false | sed "s/^/                              /"'
 
-its ass but i was new at the time yk?
+its ass but i was new at the time
